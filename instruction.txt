@@ -2,3 +2,4 @@ git status
 git add .
 git commit -m "Название комита"
 git push
+https://github.com/mrsova/1c-auto/
